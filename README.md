@@ -1,2 +1,2 @@
 # hypixel-py
-Python wrapper for the Hypixel API
+Python wrapper for the Hypixel API.
